@@ -14,7 +14,7 @@ I love building AI innovations that drive real impact, automating workflows, and
 
 * **AI Product** : Building RAG pipelines, multi-agent systems, and automation tools that drive measurable business outcomes.
 * **ML at Scale** : Deploying recommendation engines, forecasting systems, and MLOps infrastructure for production environments.
-* **Collaborative Innovation**: Working with cross-functional teams to solve real-world problems using AI, GenAI, and data-driven solutions.
+* **Collaborative Innovation**: Working with cross-functional teams to solve real-world problems.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
