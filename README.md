@@ -5,7 +5,7 @@ I’m a MS in <b>AI student at Rochester Institute of Technology</b> and I speci
 
 I love exploring AI innovations, coding solutions, and impactful tech. Let’s connect if you’re working on something cool or want to collaborate, your support fuels my projects.
 
- * Resume: [<b>Swathy Ragupathy's Resume</b>]()   
+ * Resume: [<b>Swathy's Resume</b>]()   
  * I do write blogs and articles on [Medium](https://medium.com/@swathyragupathy)
  * You can find me on [LinkedIn](https://www.linkedin.com/in/swathyragupathy/) and do follow me :)
 
