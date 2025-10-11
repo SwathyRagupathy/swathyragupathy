@@ -5,6 +5,7 @@ I'm pursuing my MS in AI at Rochester Institute of Technology and currently work
 I love building AI innovations that drive real impact, automating workflows, and collaborating on meaningful tech. Let's connect if you're working on something exciting or want to collaborate—your support fuels my projects.
 
  * Resume: [<b>Swathy's Resume (GitHub)</b>](https://github.com/SwathyRagupathy/SwathyRagupathy/blob/main/Swathy-AI-ML-Resume.pdf)
+ * * Resume: [<b>Swathy's Resume (Google Drive)</b>](https://drive.google.com/file/d/1XPG5bYLStmEpf0T7GBL5qj7vn9hXigxM/view?usp=sharing)
  * I write blogs and articles on [Medium](https://medium.com/@swathyragupathy)
  * Find me on [LinkedIn](https://www.linkedin.com/in/swathyragupathy/) and follow along :)
 
