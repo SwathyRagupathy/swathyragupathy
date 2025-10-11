@@ -9,13 +9,11 @@ I love building AI innovations that drive real impact, automating workflows, and
  * I write blogs and articles on [Medium](https://medium.com/@swathyragupathy)
  * Find me on [LinkedIn](https://www.linkedin.com/in/swathyragupathy/) and follow along :)
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
- 
 #### 🌱 What I'm Passionate About
 
 
-* **AI for Product Impact** : Building RAG pipelines, multi-agent systems, and automation tools that drive measurable business outcomes.
-* **Applied ML at Scale** : Deploying recommendation engines, forecasting systems, and MLOps infrastructure for production environments.
+* **AI Product** : Building RAG pipelines, multi-agent systems, and automation tools that drive measurable business outcomes.
+* **ML at Scale** : Deploying recommendation engines, forecasting systems, and MLOps infrastructure for production environments.
 * **Collaborative Innovation**: Working with cross-functional teams to solve real-world problems using AI, GenAI, and data-driven solutions.
 
 
