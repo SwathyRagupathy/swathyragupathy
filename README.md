@@ -29,4 +29,4 @@ I love building AI innovations that drive real impact, automating workflows, and
 
 * Completed my **Master's in AI at RIT** (Aug 2023 - May 2025, GPA: 3.6/4.0) and **Bachelor's in Computer Science** from Sri Ramachandra Institute (Aug 2019 - June 2023, GPA: 9.3/10).
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
