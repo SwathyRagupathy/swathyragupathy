@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <a href="https://swathyragupathy.github.io/">Swathy Ragupathy</a>👋</h1>
+<h1>Hi there, I'm <a href="https://github.com/SwathyRagupathy">Swathy Ragupathy</a>👋</h1>
 
 I'm currently serve as **Engineering Chief at Community Dreams Foundation** in New York. I specialize in **building production AI Agents, RAG pipelines, and intelligent automation workflows**. My work focuses on **developing multi-agent systems, recommendation engines, and ML-powered products** that solve real-world problems.  Skilled in **Python, TensorFlow, PyTorch, LangChain, AWS, and MLOps**.
 
