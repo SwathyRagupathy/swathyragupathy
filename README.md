@@ -21,7 +21,7 @@ I love building AI innovations that drive real impact, automating workflows, and
 
 #### 🎖 Nice Things That Happened Along The Way
 
-* Currently serving as **Engineering Chief at Community Dreams Foundation** (June 2025 - Present), managing end-to-end AI product development and coordinating cross-functional initiatives across engineering, finance, and fundraising teams.
+* Currently serving as Engineering Chief at Community Dreams Foundation (June 2025 - Present), managing end-to-end AI product development and coordinating cross-functional initiatives across engineering, finance, and fundraising teams.
   
 * Built and deployed **automated AI agent systems** including an **Agentic RAG pipeline** that increased engagement from **11% to 26%**, reduced manual outreach time by **87%**, and improved reply-to-meeting conversion by **2.4x** through orchestrated multi-agent workflows handling web scraping, LLM generation, and CRM automation.
 
