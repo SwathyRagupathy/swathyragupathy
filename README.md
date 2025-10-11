@@ -1,6 +1,7 @@
 <h1>Hi there, I'm <a href="https://swathyragupathy.github.io/">Swathy Ragupathy</a>👋</h1>
 
-I'm pursuing my MS in AI at Rochester Institute of Technology and currently work as an AI Engineer at Community Dreams Foundation in New York. I specialize in building production AI systems, Agentic RAG pipelines, and ML-powered products. Previously interned at SBNA Software Solutions (recommendation engine, $420K revenue impact), where I improved CTR by 22% and reduced search latency by 62%. My projects include a Github2Blog Agentic AI system (LangGraph, GPT-4, 5-min blog generation), Resume Optimizer (BERT embeddings, 89% match accuracy), Voice-Enabled RAG Assistant (78% accuracy), and Multimodal Conversational AI (LLaVA, 75% VQA accuracy). Skilled in Python, TensorFlow, PyTorch, LangChain, AWS, and MLOps.
+I'm pursuing my **MS in AI at Rochester Institute of Technology** and currently serve as **Engineering Chief at Community Dreams Foundation** in New York. I specialize in **building production AI systems, Agentic RAG pipelines, and intelligent automation workflows**. My work focuses on **developing multi-agent systems, recommendation engines, and ML-powered products** that solve real-world problems. I've built projects like **Github2Blog Agentic AI, Resume Optimizer, Voice-Enabled RAG Assistant, and Multimodal Conversational AI**. Skilled in **Python, TensorFlow, PyTorch, LangChain, AWS, and MLOps**.
+
 
 I love building AI innovations that drive real impact, automating workflows, and collaborating on meaningful tech. Let's connect if you're working on something exciting or want to collaborate—your support fuels my projects.
 
