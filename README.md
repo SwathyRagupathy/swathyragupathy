@@ -9,7 +9,7 @@ I love building AI innovations that drive real impact, automating workflows, and
  * Find me on [<b> LinkedIn <b>](https://www.linkedin.com/in/swathyragupathy/) and follow along :)
  * I write blogs and articles on [<b> Medium <b>](https://medium.com/@swathyragupathy)
 
-#### 🌱 What I'm Passionate About
+<h4> 🌱 What I'm Passionate About </h4>
 
 
 * **AI Product** : Building RAG pipelines, multi-agent systems, and automation tools that drive measurable business outcomes.
@@ -19,7 +19,7 @@ I love building AI innovations that drive real impact, automating workflows, and
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-#### 🎖 Nice Things That Happened Along The Way
+<h3>🎖 Nice Things That Happened Along The Way </h3>
 
 1. Currently serving as **Engineering Chief at Community Dreams Foundation** (June 2025 - Present), managing end-to-end AI product development and coordinating cross-functional initiatives across engineering, finance, and fundraising teams.
 
