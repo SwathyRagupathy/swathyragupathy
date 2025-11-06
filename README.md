@@ -22,10 +22,10 @@ I love building AI innovations that drive real impact, automating workflows, and
 
 👩🏻‍💼 Currently serving as **GenAI Engineer at Community Dreams Foundation**, managing end-to-end AI product development and coordinating cross-functional initiatives across engineering, finance, and fundraising teams.
 
-⭐️ Built and deployed **automated AI agent systems** including an **Agentic RAG pipeline** that increased engagement from **11% to 26%**, reduced manual outreach time by **87%**, and improved reply-to-meeting conversion by **2.4x** through orchestrated multi-agent workflows handling web scraping, LLM generation, and CRM automation.
+⭐️ Built and deployed **automated AI agent systems** including an **Agentic RAG pipeline** that increased engagement from **10% to 23%**, reduced manual outreach time by **87%**, and improved reply-to-meeting conversion by **2.4x** through orchestrated multi-agent workflows handling web scraping, LLM generation, and CRM automation.
 
-⭐️ Previously interned at **SBNA Software Solutions** (Aug 2022 - July 2023), contributing to a production **recommendation engine serving 100K+ users** with collaborative filtering, deployed a **churn prediction model (84% precision)**, and optimized **e-commerce search latency by 62%**.
+⭐️ Previously interned at **SBNA Software Solutions**, contributing to a production **recommendation engine serving 100K+ users** with collaborative filtering, deployed a **churn prediction model (84% precision)**, and optimized **e-commerce search latency by 62%**.
 
-👩🏻‍🎓 Completed my **Master's in AI at RIT** (Aug 2023 - May 2025, GPA: 3.6/4.0) and **Bachelor's in Computer Science** from Sri Ramachandra Institute (Aug 2019 - June 2023, GPA: 9.3/10).
+👩🏻‍🎓 Completed my **Master's in AI at RIT** and **Bachelor's in Computer Science** from Sri Ramachandra University.
 
 
