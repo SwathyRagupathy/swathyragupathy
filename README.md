@@ -7,7 +7,7 @@ I love building AI innovations that drive real impact, automating workflows, and
 
  * [<b>Swathy's Resume </b>](https://drive.google.com/file/d/1LexLCfzwc89i-5hkfWAJNnwTF-NnNEeR/view?usp=share_link)
  * Find me on [<b> LinkedIn <b>](https://www.linkedin.com/in/swathyragupathy/) and follow along :)
- * I write blogs and articles on [<b> Medium <b>](https://medium.com/@swathyragupathy)
+# * I write blogs and articles on [<b> Medium <b>](https://medium.com/@swathyragupathy)
 
 <h4> 🌱 What I'm Passionate About </h4>
 
