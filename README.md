@@ -5,7 +5,7 @@ I'm currently serve as **Engineering Chief at Community Dreams Foundation** in N
 
 I love building AI innovations that drive real impact, automating workflows, and collaborating on meaningful tech. Let's connect if you're working on something exciting or want to collaborate—your support fuels my projects.
 
- * [<b>Swathy's Resume </b>](https://drive.google.com/file/d/1XPG5bYLStmEpf0T7GBL5qj7vn9hXigxM/view?usp=sharing)
+ * [<b>Swathy's Resume </b>](https://drive.google.com/file/d/1LexLCfzwc89i-5hkfWAJNnwTF-NnNEeR/view?usp=share_link)
  * Find me on [<b> LinkedIn <b>](https://www.linkedin.com/in/swathyragupathy/) and follow along :)
  * I write blogs and articles on [<b> Medium <b>](https://medium.com/@swathyragupathy)
 
