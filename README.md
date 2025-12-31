@@ -5,9 +5,6 @@ I'm currently serve as **Engineering Chief at Community Dreams Foundation** in N
 
 I love building AI innovations that drive real impact, automating workflows, and collaborating on meaningful tech. Let's connect if you're working on something exciting or want to collaborate—your support fuels my projects.
 
- * [<b>Swathy's Resume </b>](https://drive.google.com/file/d/1LexLCfzwc89i-5hkfWAJNnwTF-NnNEeR/view?usp=share_link)
- * Find me on [<b> LinkedIn <b>](https://www.linkedin.com/in/swathyragupathy/) and follow along :)
-
 <h4> 🌱 What I'm Passionate About </h4>
 
 
@@ -18,14 +15,5 @@ I love building AI innovations that drive real impact, automating workflows, and
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<h4>🎖 Nice Things That Happened Along The Way </h4>
-
-👩🏻‍💼 Currently serving as **GenAI Engineer at Community Dreams Foundation**, managing end-to-end AI product development and coordinating cross-functional initiatives across engineering, finance, and fundraising teams.
-
-⭐️ Built and deployed **automated AI agent systems** including an **Agentic RAG pipeline** that increased engagement from **10% to 23%**, reduced manual outreach time by **87%**, and improved reply-to-meeting conversion by **2.4x** through orchestrated multi-agent workflows handling web scraping, LLM generation, and CRM automation.
-
-⭐️ Previously interned at **SBNA Software Solutions**, contributing to a production **recommendation engine serving 100K+ users** with collaborative filtering, deployed a **churn prediction model (84% precision)**, and optimized **e-commerce search latency by 62%**.
-
-👩🏻‍🎓 Completed my **Master's in AI at RIT** and **Bachelor's in Computer Science** from Sri Ramachandra University.
 
 
